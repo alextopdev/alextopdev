@@ -1,6 +1,6 @@
 # I am Alex
 
-## AI Engineer | Automation | Web3 / Blockchain Engineer | Game Developer
+## AI Engineer | AI Automation | Web3 / Blockchain Engineer | Game Developer
 
 Experienced software engineer specializing in building scalable web applications, decentralized systems, and interactive experiences. Proven track record across full stack development, smart contract integration, and game development using modern technologies.
 
