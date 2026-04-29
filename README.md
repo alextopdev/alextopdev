@@ -93,16 +93,16 @@ Experienced software engineer specializing in building scalable web applications
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=topdev424&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alextopdev&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topdev424&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alextopdev&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=topdev424&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alextopdev&theme=tokyonight)
 
 ---
 
 ## 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=topdev424&theme=tokyo-night)](https://github.com/topdev424)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alextopdev&theme=tokyo-night)](https://github.com/alextopdev)
 
 ---
 
