@@ -150,8 +150,9 @@ All repositories are in private.
 ---
 
 ## 📫 Contact
-
-- Email: alexsirbescu@proton.me
+- GitHub: https://github.com/alextopdev
+- LinkedIn: https://ro.linkedin.com/in/sirbescu-alexandru-6450851bb
+- Portfolio: http://alexsirbescu.gamer.gd
 
 ---
 
