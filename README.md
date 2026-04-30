@@ -154,7 +154,8 @@ All repositories are in private.
 - GitHub: https://github.com/alextopdev
 - LinkedIn: https://ro.linkedin.com/in/sirbescu-alexandru-6450851bb
 - Portfolio: http://alexsirbescu.gamer.gd
-
+- Telegram: [@alexsirbescu424](https://t.me/alexsirbescu424)
+- Teams: [Chat on Teams](https://teams.microsoft.com/l/chat/0/0?users=alexsirbescu424@outlook.com)  
 ---
 
 ## 🤝 Open to Opportunities
