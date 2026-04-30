@@ -150,7 +150,7 @@ All repositories are in private.
 ---
 
 ## 📫 Contact
-- Email: mailto:alexsirbescu424@outlook.com
+- Email: [alexsirbescu424@outlook.com](mailto:alexsirbescu424@outlook.com?subject=Hello%20Alex)
 - GitHub: https://github.com/alextopdev
 - LinkedIn: https://ro.linkedin.com/in/sirbescu-alexandru-6450851bb
 - Portfolio: http://alexsirbescu.gamer.gd
