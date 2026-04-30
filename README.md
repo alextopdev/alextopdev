@@ -3,6 +3,7 @@
 ## AI Engineer | AI Automation | Web3 / Blockchain Engineer | Game Developer
 
 Experienced software engineer specializing in building scalable web applications, decentralized systems, and interactive experiences. Proven track record across full stack development, smart contract integration, and game development using modern technologies.
+AI Engineer with experience building intelligent systems, automation workflows, and scalable software solutions. Skilled in developing AI-powered applications, integrating APIs, automating business processes, and optimizing operations through machine learning and modern cloud technologies.
 
 All repositories are in private.
 
@@ -27,6 +28,46 @@ All repositories are in private.
 - Passionate about performance, clean architecture, and maintainable codebases
 
 ---
+
+## Core Skills
+- Artificial Intelligence & Machine Learning
+- AI Automation & Workflow Optimization
+- Python, JavaScript, TypeScript
+- Large Language Models (LLMs)
+- API Integration & Backend Development
+- Data Engineering & ETL Pipelines
+- Cloud Platforms (AWS, GCP, Azure)
+- Process Automation (Zapier, Make, n8n)
+- Web Scraping & Data Analysis
+- Prompt Engineering & AI Deployment
+
+## What I Build
+- AI chatbots and virtual assistants
+- Business process automation systems
+- Intelligent data pipelines
+- Custom API integrations
+- Machine learning models
+- SaaS automation tools
+- CRM and sales automation
+- Content generation systems
+
+## Current Focus
+- Building AI-driven automation solutions
+- Scaling backend systems for AI products
+- Developing custom LLM workflows
+- Optimizing operational efficiency with automation
+
+## Tools & Technologies
+- OpenAI / GPT
+- LangChain
+- Python
+- Node.js
+- Docker
+- PostgreSQL
+- FastAPI
+- TensorFlow / PyTorch
+- GitHub Actions
+- Automation platforms
 
 ## 🛠️ Technical Skills
 
