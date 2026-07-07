@@ -153,8 +153,8 @@ All repositories are in private.
 - Email: [alexsirbescu424@outlook.com](mailto:alexsirbescu424@outlook.com?subject=Hello%20Alex)
 - GitHub: https://github.com/alextopdev
 - LinkedIn: https://ro.linkedin.com/in/sirbescu-alexandru-6450851bb
-- Portfolio: https://alexsirbescu.gamer.gd
-- Telegram: [@alexsirbescu424](https://t.me/alexsirbescu424)
+- Portfolio: https://alextopdev.github.io/
+- Telegram: [@alexsirbescu424](https://t.me/topfreelancer424)
 - Teams: [Sirbescu Alex](https://teams.microsoft.com/l/chat/0/0?users=alexsirbescu424@outlook.com)  
 ---
 
